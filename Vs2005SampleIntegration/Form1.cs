@@ -24,7 +24,7 @@ namespace Vs2005SampleIntegration
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Deneme İkinci Commit");
+            MessageBox.Show("Deneme Üçüncü Commit");
         }
     }
 }
